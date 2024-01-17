@@ -1,0 +1,109 @@
+Question q1
+===========
+
+*** FAIL: test_cases/q1/addition1.test
+*** 	add(a,b) must return the sum of a and b
+*** 	student result: "0"
+*** 	correct result: "2"
+*** FAIL: test_cases/q1/addition2.test
+*** 	add(a,b) must return the sum of a and b
+*** 	student result: "0"
+*** 	correct result: "5"
+*** FAIL: test_cases/q1/addition3.test
+*** 	add(a,b) must return the sum of a and b
+*** 	student result: "0"
+*** 	correct result: "7.9"
+*** Tests failed.
+
+### Question q1: 0/1 ###
+
+
+Question q2
+===========
+
+*** FAIL: test_cases/q2/food_price1.test
+*** 	buyLotsOfFruit must compute the correct cost of the order
+*** 	student result: "0.0"
+*** 	correct result: "12.25"
+*** FAIL: test_cases/q2/food_price2.test
+*** 	buyLotsOfFruit must compute the correct cost of the order
+*** 	student result: "0.0"
+*** 	correct result: "14.75"
+*** FAIL: test_cases/q2/food_price3.test
+*** 	buyLotsOfFruit must compute the correct cost of the order
+*** 	student result: "0.0"
+*** 	correct result: "6.4375"
+*** Tests failed.
+
+### Question q2: 0/1 ###
+
+
+Question q3
+===========
+
+Welcome to shop1 fruit shop
+Welcome to shop2 fruit shop
+*** FAIL: test_cases/q3/select_shop1.test
+*** 	shopSmart(order, shops) must select the cheapest shop
+*** 	student result: "None"
+*** 	correct result: ""
+Welcome to shop1 fruit shop
+Welcome to shop2 fruit shop
+*** FAIL: test_cases/q3/select_shop2.test
+*** 	shopSmart(order, shops) must select the cheapest shop
+*** 	student result: "None"
+*** 	correct result: ""
+Welcome to shop1 fruit shop
+Welcome to shop2 fruit shop
+Welcome to shop3 fruit shop
+*** FAIL: test_cases/q3/select_shop3.test
+*** 	shopSmart(order, shops) must select the cheapest shop
+*** 	student result: "None"
+*** 	correct result: ""
+*** Tests failed.
+
+### Question q3: 0/1 ###
+
+
+Question q4
+===========
+
+Welcome to shop1 fruit shop
+Welcome to shop2 fruit shop
+Welcome to shop3 fruit shop
+*** FAIL: test_cases/q4/find_route1.test
+*** 	shopAroundTown(orders, fruitTown, price) must select the best route
+*** 	student result: "None"
+*** 	correct result: "['shop1', 'shop2', 'shop3']"
+Welcome to shop1 fruit shop
+Welcome to shop2 fruit shop
+Welcome to shop3 fruit shop
+*** FAIL: test_cases/q4/find_route2.test
+*** 	shopAroundTown(orders, fruitTown, price) must select the best route
+*** 	student result: "None"
+*** 	correct result: "['shop1', 'shop3']"
+Welcome to shop1 fruit shop
+Welcome to shop2 fruit shop
+Welcome to shop3 fruit shop
+*** FAIL: test_cases/q4/find_route3.test
+*** 	shopAroundTown(orders, fruitTown, price) must select the best route
+*** 	student result: "None"
+*** 	correct result: "['shop2']"
+*** Tests failed.
+
+### Question q4: 0/1 ###
+
+
+Finished at 13:41:08
+
+Provisional grades
+==================
+Question q1: 0/1
+Question q2: 0/1
+Question q3: 0/1
+Question q4: 0/1
+------------------
+Total: 0/4
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
