@@ -37,7 +37,7 @@ Allowing instructors to download and review the grade files: The system will all
 **2.3 User characteristics**
 The primary users of the ACAGS will be course instructors who have a basic understanding of computer programming and are familiar with the use of Mylearningspace. They will use the system to automate the grading of code assignments, thereby saving time and ensuring consistency in grading. Secondary users will be students who will receive grades from the system via the MLS. They are expected to have varying levels of programming skills, from beginners to advanced.
 
-**2.4 Constraints
-**The ACAGS must operate within the university's IT infrastructure, adhering to security protocols and data privacy regulations. It should be compatible with various operating systems and browsers to ensure accessibility for all users. The system should be scalable to handle multiple assignments simultaneously, ensuring efficient grading even during peak times
+**2.4 Constraints**
+The ACAGS must operate within the university's IT infrastructure, adhering to security protocols and data privacy regulations. It should be compatible with various operating systems and browsers to ensure accessibility for all users. The system should be scalable to handle multiple assignments simultaneously, ensuring efficient grading even during peak times
 2.5 Assumptions and Dependencies
 The ACAGS assumes that instructors have the necessary permissions to download and upload files from the MLS. It depends on the availability and reliability of the MLS for the file transfer process. The system also assumes that instructors will provide clear assignment instructions to students and define the predefined tests to be run on the code.
