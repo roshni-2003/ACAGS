@@ -13,12 +13,7 @@ SRS: Software Requirements Specification
 GUI: Graphical User Interface
 MLS: Mylearningspace
 
-**1.4 References:**
-[1] IEEE Standard for Software Requirements Specifications. IEEE Std 830-1998.
-[2] Sommerville, I. (2015). Software Engineering (10th ed.). Pearson.
-[3] myLearningSpace: The university's existing Learning Management System.
-
-**1.5 Overview:**
+**1.4 Overview:**
 The remainder of this document provides a detailed description of the ACAGS, including its functionality, user characteristics, constraints, and specific requirements. It also includes use cases, sequence diagrams, state diagrams, and a prototype of the product GUI. This document serves as a reference for the design, development, and testing of the ACAGS.
 
 
